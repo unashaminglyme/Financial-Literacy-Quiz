@@ -74,6 +74,81 @@ const quizData = [
     options: ['Increase in personal income tax rates and decrease in corporate tax rates', 'Reduction in personal income tax rates and introduction of excise taxes on sugar-sweetened beverages', 'Elimination of value-added tax (VAT)', 'Introduction of new tariffs on imported goods'],
     answer: 'Reduction in personal income tax rates and introduction of excise taxes on sugar-sweetened beverages',
   },
+  {
+    question: 'What is the currency of the Philippines?',
+    options: [' Yen', 'Dollar', 'Peso', 'Won'],
+    answer: 'Peso ',
+  },
+  {
+    question: 'What is the abbreviation for the Philippine Peso?',
+    options: ['PHP', 'PPH', 'PES', 'PPS'],
+    answer: 'PHP',
+  },
+  {
+    question: 'Which institution is responsible for issuing the Philippine currency?',
+    options: ['Department of Finance', 'Bangko Sentral ng Pilipinas (BSP)', 'Bureau of Treasury', 'Philippine Stock Exchange'],
+    answer: 'Bangko Sentral ng Pilipinas (BSP)',
+  },
+  { 
+    question: 'Where can foreign currency typically be exchanged in the Philippines?',
+    options: ['Convenience stores', 'Authorized money changers', 'Schools', 'Post offices'],
+    answer: 'Authorized money changers',
+  },
+  {
+    question: 'What is one of the responsibilities of the Bangko Sentral ng Pilipinas (BSP)?',
+    options: ['Printing newspapers', 'Maintaining price stability', 'Conducting national elections', 'Building infrastructure'],
+    answer: 'Maintaining price stability',
+  },
+  {
+    question: 'What is the Philippine Stock Exchange (PSE)?',
+    options: ['A bank that offers investment advice', 'The main stock exchange in the Philippines', 'A government agency regulating businesses', 'An online trading platform'],
+    answer: 'The main stock exchange in the Philippines',
+  },
+  {
+    question: 'How can you start investing in the PSE?',
+    options: ['By buying stocks directly from companies', 'By opening an account with a licensed stockbroker', 'By depositing money in a bank', 'By applying at the PSE office'],
+    answer: 'By opening an account with a licensed stockbroker',
+  },
+  {
+    question: 'What are stocks?',
+    options: ['Loans to the government', 'Certificates of deposit', 'Shares of ownership in a company', 'Bonds issued by corporations'],
+    answer: 'Shares of ownership in a company',
+  },
+  {
+    question: 'What is the PSE Composite Index (PSEi)?',
+    options: ['An index tracking all listed companies on the PSE', 'The main stock market index of the PSE', 'An index of foreign companies trading in the Philippines', 'A government index for economic performance'],
+    answer: 'The main stock market index of the PSE',
+  },
+  { 
+    question: 'What are dividends?',
+    options: ['Interest paid on savings accounts', 'Profits distributed to shareholders', 'Fees charged by brokers', 'Taxes on stock transactions'],
+    answer: 'Profits distributed to shareholders',
+  },
+  {
+    question: 'What are the risks associated with stock market investing?',
+    options: ['Guaranteed returns', 'Market volatility and potential loss of investment', 'Fixed interest rates', 'None, it is completely safe'],
+    answer: 'Market volatility and potential loss of investment',
+  },
+  {
+    question: 'What is a trading account?',
+    options: ['An account that earns interest like a savings account', 'An account with a brokerage that allows stock trading', 'A bank account for international transactions', 'An account used for trading foreign currencies'],
+    answer: 'An account with a brokerage that allows stock trading',
+  },
+  {
+    question: 'What are the costs involved in trading stocks?',
+    options: ['There are no costs involved', 'Only taxes on profits', 'Broker commissions, taxes, and other fees', 'Only the purchase price of stocks'],
+    answer: 'Broker commissions, taxes, and other fees ',
+  },
+  {
+    question: 'What is an initial public offering (IPO)?',
+    options: ['A new product launch by a company', 'The process where a private company offers shares to the public for the first time', 'A loan taken by the government', 'A merger between two companies'],
+    answer: 'The process where a private company offers shares to the public for the first time',
+  },
+  {
+    question: 'What is the importance of diversification?',
+    options: ['To maximize returns by focusing on one sector', 'To reduce risk by spreading investments across various sectors', 'To ensure investments are only in foreign companies', 'To avoid paying taxes'],
+    answer: 'To reduce risk by spreading investments across various sectors',
+  },
 
 ];
 
