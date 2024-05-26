@@ -1,0 +1,97 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  line-height: 1.7rem;
+  background: #F5F5DC;
+}
+.container {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  width: 60%;
+  margin: 5rem auto;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  background: #004225;
+  min-height: 30vh;
+}
+
+h1 {
+  text-align: center;
+}
+
+.question {
+  margin: 2rem 0;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.options {
+  margin-bottom: 0px;
+}
+
+.option {
+  display: block;
+  margin: 2rem 0;
+  color: white;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+.option:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #428bca;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 22px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  margin: 20px;
+}
+
+.button:hover {
+  background-color: #3071a9;
+}
+
+.result {
+  font-family: "Roboto", sans-serif;
+  text-align: justify;
+  font-size: 22px;
+  margin-top: 20px;
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.hide{
+  display: none;
+  background: #bab86c;
+  margin-top: 20px;
+  width: 240px;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.vertical-center {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
